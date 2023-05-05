@@ -1,7 +1,7 @@
 # AssetCore
 Public Issue Repository for AssetCore.
 
-If you don't have a GitHub account, feel free to email **support** at **assetvault.laim.scot** and I will be in contact - creating a GitHub account is quick and easy, so I'd recommend that approach over emailing through.
+If you don't have a GitHub account, feel free to email **support** at **laim.scot** and I will be in contact - creating a GitHub account is quick and easy, so I'd recommend that approach over emailing through.
 
 ## Issues
 There is a list of Known Issues available in the [issues](https://github.com/Laim/AVPUB/issues) tab, please review before creating a new issue as someone may already have reported.
