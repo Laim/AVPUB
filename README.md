@@ -1,5 +1,5 @@
-# AssetVault
-Public Issue Repository for AssetVault.
+# AssetCore
+Public Issue Repository for AssetCore.
 
 If you don't have a GitHub account, feel free to email **support** at **assetvault.laim.scot** and I will be in contact - creating a GitHub account is quick and easy, so I'd recommend that approach over emailing through.
 
@@ -17,4 +17,4 @@ Need to open a feature request?  You can do that [here](https://github.com/Laim/
 The [discussions](https://github.com/Laim/AVPUB/discussions) tab is a great place to discuss potential ideas you have and getting feedback from others before opening a feature request.  There's also a helpful Q&A section if you have any questions you want answered, that isn't a bug report.
 
 ## Contributing
-AssetVault is currently closed-source and is not open to code contributions, but this may change in the future so keep an eye out on [announcements](https://github.com/Laim/AVPUB/discussions/categories/announcements)!
+AssetCore is currently closed-source and is not open to code contributions, but this may change in the future so keep an eye out on [announcements](https://github.com/Laim/AVPUB/discussions/categories/announcements)!
